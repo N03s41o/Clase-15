@@ -1,0 +1,12 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Instalando dependencias...
+  build:
+    commands:
+      - echo "Preparando archivos para el S3..."
+artifacts:
+  files:
+    - '**/*'

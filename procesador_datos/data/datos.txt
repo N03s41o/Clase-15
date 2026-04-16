@@ -1,0 +1,9 @@
+# Archivo de texto original que tiene líneas vacías
+Dato de prueba 1
+Dato de prueba 2
+
+
+# Este es un comentario o metadata que queremos filtrar
+Dato de prueba 3
+
+Dato de prueba 4
